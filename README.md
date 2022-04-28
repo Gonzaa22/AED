@@ -1,12 +1,13 @@
 # AED
 Repositorio de la materia Algoritmo y Estructura de datos
 
-Curso: K1051
+Curso: K1051 
 
-2022
+Año Cursado: 2022 
 
-Legajo: 1754816
+Legajo: 1754816 
 
-Apellido: Martorano
+Apellido: Martorano 
 
-Nombre: Gonzalo Ezequiel
+Nombre: Gonzalo Ezequiel 
+
